@@ -1,2 +1,2 @@
 # NativStudents
-Prueba de desarrollo full stack
+Prueba de desarrollo full stack para NativApps
